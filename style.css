@@ -1,0 +1,98 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    color: #777;
+    background: #777;
+    width: 960px;
+    font-size: 18px;
+}
+
+.all {
+    content: #ebebeb;
+    width: 960px;
+    text-align: center;
+    position: absolute;
+    left: 150px;
+}
+
+.header {
+    background: #ebebeb;
+    width: 960px;
+    padding: 20px;
+    margin-bottom: 10px;
+}
+
+.nav {
+    background: #ebebeb;
+    width: 960px;
+    padding: 20px;
+    margin-bottom: 10px;
+}
+
+.section {
+    background: #ebebeb;
+    margin-bottom: 20px;
+    float: left;
+    width: 495px;
+    margin-bottom: 10px;
+    height: 210px;
+    position: relative;
+    padding-top: 30px;
+}
+
+.article {
+    color: #ebebeb;
+    background: #777;
+    position: relative;
+    left: 10px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 50px;
+    padding-right: 20px;
+    margin-bottom: 20px;
+    margin-top: 30px;
+    width: 400px;
+
+}
+
+.h {
+    color: #777;
+    background: #ebebeb;
+    margin-bottom: 10px;
+    padding-left: 20px;
+    padding-right: 20px; 
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.p {
+    color: #777;
+    background: #ebebeb;
+    margin-bottom: 0px;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-bottom: 10px;
+    padding-top: 10px;
+    margin-top: 10px; 
+}
+
+.aside {
+    background: #ebebeb;
+    position: relative;
+    padding-right: 10px;
+    padding-top: 30px;
+    margin-bottom: 10px;
+    left: 85px;
+    right: 10px;
+    float: left;
+    width: 410px;
+    color: #777;
+    height: 210px 
+}
+
+.footer {
+    background: #ebebeb;
+    width: 960px;
+    padding: 20px;
+    margin-bottom: 10px;
+    clear: left;
+}
